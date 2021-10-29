@@ -4,24 +4,25 @@
 
 ***Le Surg_phone est un gcphone pas trop entierement modif***
 
-Mais
+**Mais**
 
--Les icons sont comme sur l'iphone
+``` -Les icons sont comme sur l'iphone ```
 
--il est magnifique
+``` -il est magnifique ```
 
--j'ai peter
+``` -j'ai peter ```
 
 ***[EN]***
 
 ***The Surg_phone is an gcphone not fully modificaded***
-But
 
--Icons are like in the Iphone
+**But**
 
--It's beautiful
+```-Icons are like in the Iphone```
 
--i fart
+```-It's beautiful```
+
+```-i fart```
 
 **--------------Server.cfg-------------**
 
@@ -33,14 +34,22 @@ But
 
 **------------Control/Touche-----------**
 
-Open / Ouvrir (Phone) : F1
+***Open / Ouvrir (Phone)*** :
 
-Open / Ouvrir (Menu Sim) : F2
+```F1```
+
+***Open / Ouvrir (Menu Sim)*** : 
+
+```F2```
 
 **-----------------Item----------------**
 
-Phone/Téléphone : /setitem ID tel 1
+***Phone/Téléphone*** :
 
-Carte Sim / Sim Card : /setitem ID sim 1
+```/setitem ID tel 1```
+
+***Carte Sim / Sim Card*** : 
+
+```/setitem ID sim 1```
 
 **#############################################################################**
